@@ -1,9 +1,7 @@
 # Web3NUM
----
 
 **A standalone bash script which utilizes existing web enumeration tools to find most interesting stuffs in web application security testing.
 This tool just runs various tools with one web url as command line argument.**
-
 
 **Reason to use this tool?**
 - Well it can find the files/folders some endpoints which we may overlook while doing things manually.
@@ -41,7 +39,6 @@ sudo cp web.sh /usr/local/bin/
 
 sudo chmod 777 /usr/local/bin/web.sh
 ```
-
 
 ### Usage
 ```
