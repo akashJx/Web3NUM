@@ -1,7 +1,6 @@
 # Web3NUM
 
-**A standalone bash script which utilizes existing web enumeration tools to find most interesting stuffs in web application security testing.
-This tool just runs various tools with one web url as command line argument.**
+**A standalone bash script that utilizes existing web enumeration tools to find the most interesting stuff in web application security testing. This tool just runs various tools with one web URL as a command-line argument.**
 
 **Reason to use this tool?**
 - Well it can find the files/folders some endpoints which we may overlook while doing things manually.
