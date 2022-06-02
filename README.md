@@ -23,9 +23,10 @@ Install the below tools before running it.
 - racoon
 - gobuster
 - feroxbuster
+- seclists
 
 ```bash
-sudo apt install whatweb,gobuster,hakrawler,feroxbuster,curl -y
+sudo apt install whatweb,gobuster,hakrawler,feroxbuster,curl,seclists -y
 
 sudo pip install raccoon-scanner
 ```
